@@ -372,7 +372,8 @@ html {
   cursor: pointer;
   border-radius: 0.3125em;
   position: absolute;
-  margin-left: 90%;
+  left: 70em;
+  margin-right:auto;
   }
 
 
